@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Internet Protocol Simulator
 
 
@@ -52,3 +53,7 @@ python the\_internet.py
 
 
 
+=======
+# internet-protocol-simulator
+This program simulates an internet with servers, allowing you to ping,  traceroute, and connect servers while handling basic IPv4 validation.
+>>>>>>> 21505185a224d1d17bde200d201852ba186d527e
